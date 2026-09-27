@@ -11,7 +11,7 @@ public class div {
             System.out.println("error occured: "+e.getMessage());
         }
         finally{
-            System.out.println("sucess");
+            System.out.println("success");
         }
         sc.close();
     }
